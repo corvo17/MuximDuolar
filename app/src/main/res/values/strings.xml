@@ -1,0 +1,31 @@
+<resources>
+    <string name="dalil">Aslida duo nima?</string>
+    <string name="dalil6">Dasturni marhum Quvondiqov Doniyor otamizga sadaqai joriya sifatida tayyorladik.</string>
+    <string name="dalil2">Alloh ularni Firdavs Jannati bilan mukofotlasin.</string>
+    <string name="dalil5">dasturga holis ko‘mak bergan insonlarga Allohning o‘zi ajru savobini ko‘paytirib bersin.</string>
+    <string name="dalil4">   Bismillahi Rahmani Rahim Assalamu alaykum,
+aziz  aka-uka,  opa-singillar  Siz  azizlar  uchun
+Muhum Duolar dasturini ishlab chiqdik.
+   Kundalik hayotimizda biz bilan sodir bo‘ladigan
+har-xil vaziyatlarda Allohga duo qilishga odat-
+lanishimiz   sunnatga  muvofiq bo‘ladi. Biz Siz
+azizlarga duo yodlashingiz qulay bo‘lishligiga
+harakat qildik.   Dasturni tuzishda:</string>
+    <string name="app_name">Muhim Duolar</string>
+    <string name="duolarVP">DUOLAR</string>
+    <string name="sevimliVP">SEVIMLI</string>
+    <string name="comment">Inson xojatxonaga kirishdan oldin quyidagicha duo qilishi kerak:</string>
+    <string name="indTitle">XOJATXONAGA KIRISHDA</string>
+    <string name="menuItem">Lot - "</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="talafuzi">(Bismillahi) Allohumma inni a’uzu bika minal hubsi val xobais</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="manosi">Bismillah, (Ollohning nomini yodga olib kiraman.) Parvardigoro! Men Sendan erkagu ayol jinlardan panoh berishingni so‘rayman</string>
+    <string name="ovqatlanishdan_oldin">Ovqatlanishdan oldin</string>
+    <string name="main_dialog">1.</string>
+</resources>
